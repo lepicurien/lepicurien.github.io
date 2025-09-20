@@ -12,7 +12,7 @@ Parce que la vie de l’épicerie, son organisation passe par nos échanges !
 Pour éviter de surcharger les boîtes email et parce que tout les adhérents ne disposent pas d’un compte Facebook ou Whatsapp…
 Parce que cet espace de discussion permet des contacts d’épicier à épicier (discussions privées) ou des contacts de groupe (groupe finances / groupe fournisseurs / etc.)
 
-Rejoignez les discussions, tenez vous informés et n’hésitez pas à passer vos messages !
+Rejoignez les discussions, tenez vous informé·es et n’hésitez pas à passer vos messages !
 
 {: .box-note}
 [JE REJOINS L’ESPACE DE DISCUSSION](https://discord.gg/wZUyHGNEbM)
