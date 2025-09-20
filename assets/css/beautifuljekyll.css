@@ -764,9 +764,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   .intro-header.big-img .post-heading {
     padding: 9.375rem 0;
   }
-  .intro-header .page-heading h1 {
-    font-size: 5rem;
-  }
+
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
   }
@@ -958,7 +956,7 @@ pre {
 
 .box-note {
   background-color: #eee;
-  border-left-color: #2980b9;
+  border-left-color: #91643D;
 }
 
 .box-warning {
