@@ -1,0 +1,43 @@
+
+.action {
+    padding:20px;
+    background-color: var(--footer-col);
+    color: var(--text-col);
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: var(--header-font);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.action a {
+    color: var(--text-col);
+}
+
+.bullet {
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.bullet-one {
+    background-image:url('../img/plusieurs-pers.png');
+}
+
+.bullet-two {
+    background-image:url('../img/billet.png');
+}
+
+.bullet-three {
+    background-image:url('../img/horloge.png');
+}
+
+.bullet-four {
+    background-image:url('../img/ordinateur.png');
+}
+
+.bullet-five {
+    background-image:url('../img/bulles-sms.png');
+}
